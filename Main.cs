@@ -38,7 +38,7 @@ public class SGD285_1
 				new UserQuote("Baylen Smith", "Whatever happens, happens. - Spike Spiegel"),
 					new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."),
                     new UserQuote("Haley Sessions", "No road is long with good company. - Turkish Proverb"),
-                    new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"),
+                    new UserQuote("Paola Gonzalez", "The roots of education are bitter, but the fruit is sweet. - Aristotle"), /*By Joseph Mitchell: This is my favorite quote by Aristotle.*/
                     new UserQuote("Dylan Zuniga", "All the love as always. H - Harry Styles"),
                         new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),	
                         new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin")					
